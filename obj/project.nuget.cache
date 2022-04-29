@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2GWDNmd/ImKUeZyhKOysQH/ZrC53Fdj8oB0yUDy8nw6SVFjdBRI2x2Wz9RSNpzJZPtjcLPuXyP3KNQySQfvPA==",
+  "success": true,
+  "projectFilePath": "E:\\ProjetosCast\\Prova\\Questão1\\Questão1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glebs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
